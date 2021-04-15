@@ -1,4 +1,4 @@
 # hello-world
 hello World test
 
-I am young, strong and healthy, beautifull and wealthy!
+I am young, strong and healthy, beautiful and wealthy!
