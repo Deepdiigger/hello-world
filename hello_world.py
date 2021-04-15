@@ -1,4 +1,5 @@
 #testprogramm Hello world
-input pandas as pd
+import pandas as pd
 
 print("Hello World")
+print(2 + 2)
